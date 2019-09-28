@@ -96,6 +96,42 @@ _**Note:** Add your program descriptions below._
 
 **[A program with 2 different faces corresponding to 2 buttons. [file](v0.2.js)**]
 
+### v0.3
+
+**[A counter that keeps track of 3 different variables. [file](v0.3.js)**]
+
+### v0.4
+
+**[... [file](v0.4.js)**]
+
+### v0.5
+
+**[... [file](v0.5.js)**]
+
+### v0.6
+
+**[... [file](v0.6.js)**]
+
+### v0.7
+
+**[... [file](v0.7.js)**]
+
+### v0.8
+
+**[... [file](v0.8.js)**]
+
+### v0.9
+
+**[... [file](v0.9.js)**]
+
+### v0.10
+
+**[... [file](v0.10.js)**]
+
+### v0.11
+
+**... [file](v0.11.js)**]
+
 ## Designs
 
 _**Note:** Add your project designs below._
