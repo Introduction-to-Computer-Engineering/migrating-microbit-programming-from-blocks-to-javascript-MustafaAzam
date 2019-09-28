@@ -102,7 +102,7 @@ _**Note:** Add your program descriptions below._
 
 ### v0.4
 
-**[... [file](v0.4.js)**]
+**[A Rock, Paper, Scissor game with a score keeper [file](v0.4.js)**]
 
 ### v0.5
 
