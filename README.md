@@ -90,7 +90,7 @@ _**Note:** Add your program descriptions below._
 
 ### v0.1
 
-**[your description here, linking to the JavaScript [file](example.js)**]
+**[A simple counter from 0-9 that keeps repeating. [file](v0.1.js)**]
 
 ### v0.2
 
