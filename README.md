@@ -94,7 +94,7 @@ _**Note:** Add your program descriptions below._
 
 ### v0.2
 
-**[etc.]**
+**[A program with 2 different faces corresponding to 2 buttons. [file](v0.2.js)**]
 
 ## Designs
 
