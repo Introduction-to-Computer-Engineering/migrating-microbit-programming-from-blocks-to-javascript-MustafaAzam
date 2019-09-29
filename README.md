@@ -114,7 +114,7 @@ _**Note:** Add your program descriptions below._
 
 ### v0.7
 
-**[... [file](v0.7.js)**]
+**[A program that generates random pixels with random brightness settings. Press A to generate more, press B to clear.[file](v0.7.js)**]
 
 ### v0.8
 
