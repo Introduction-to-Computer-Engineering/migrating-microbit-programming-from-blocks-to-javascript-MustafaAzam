@@ -106,7 +106,7 @@ _**Note:** Add your program descriptions below._
 
 ### v0.5
 
-**[... [file](v0.5.js)**]
+**[A program with different sprite animations bound to different buttons [file](v0.5.js)**]
 
 ### v0.6
 
