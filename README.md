@@ -146,7 +146,7 @@ _**Note:** Add your project designs below._
 
 #### Design process
 
-At first I had to come up with an idea which used all the features from the previous programs, so I decided to make a timer. When I finished making it, I realized I needed to attach speakers to the microbit, so I just made it so a 2 frame animation would play when the timer hits 0.
+At first I had to come up with an idea which used all the features from the previous programs, so I decided to make a timer. When I finished making it, I realized I needed to attach speakers to the microbit, so I just made it so a 2 frame animation would play when the timer hits 0. Press A to add 1 second to the timer, Press B to remove 1 second and Press A+B to start the timer.
 #### JS Constructs & objects
 
 The features I used were: Variable, Button Press, LED plot/unplot, while loop, repeat loop, a for loop, show LED function and some Math functions.
