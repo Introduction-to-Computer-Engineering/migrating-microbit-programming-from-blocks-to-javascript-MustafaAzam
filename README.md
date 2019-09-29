@@ -110,7 +110,7 @@ _**Note:** Add your program descriptions below._
 
 ### v0.6
 
-**[... [file](v0.6.js)**]
+**[Mid term project: A timer. Press A to add 1 second, press B to remove 1 second and press A+B to start the timer. When the timer reaches 0, a special animation will play. [file](v0.6.js)**]
 
 ### v0.7
 
@@ -142,15 +142,15 @@ _**Note:** Add your project designs below._
 
 #### Goal
 
-**[your short description]**
+**My goal is to use all the functions i used in the previous sections, and combine them to make a simple, yet practical, new program. So I decided to make a timer**
 
 #### Design process
 
-**[your sketches, the things you tried, the questions you asked yourself, the answers, the sticking points, the iterations, the restarts, the final version]**
+**At first I had to come up with an idea which used all the features from the previous programs, so I decided to make a timer. When I finished making it, I realized I needed to attach speakers to the microbit, so I just made it so a 2 frame animation would play when the timer hits 0.**
 
 #### JS Constructs & objects
 
-**[which JavaScript features you used in the implementation of your project idea]**
+**The features I used were: Variable, Button Press, LED plot/unplot, while loop, repeat loop, a for loop, show LED function and some Math functions**
 
 ### Final project
 
