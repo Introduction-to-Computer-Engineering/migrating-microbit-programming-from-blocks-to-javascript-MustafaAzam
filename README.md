@@ -118,7 +118,7 @@ _**Note:** Add your program descriptions below._
 
 ### v0.8
 
-**[A simpler program that flips a coin. Made using the Boolean Function. [file](v0.8.js)**]
+**[A simple program that flips a coin. Made using the Boolean Function. [file](v0.8.js)**]
 
 ### v0.9
 
