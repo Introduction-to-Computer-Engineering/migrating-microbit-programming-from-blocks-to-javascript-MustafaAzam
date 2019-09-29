@@ -90,51 +90,51 @@ _**Note:** Add your program descriptions below._
 
 ### v0.1
 
-**[A simple counter from 0-9 that keeps repeating. [file](v0.1.js)**]
+**[A simple counter from 0-9 that keeps repeating. [v0.1.js](v0.1.js)]**
 
 ### v0.2
 
-**[A program with 2 different faces corresponding to 2 buttons. [file](v0.2.js)**]
+**[A program with 2 different faces corresponding to 2 buttons. [v0.2.js](v0.2.js)]**
 
 ### v0.3
 
-**[A counter that keeps track of 3 different variables. [file](v0.3.js)**]
+**[A counter that keeps track of 3 different variables. [v0.3.js](v0.3.js)]**
 
 ### v0.4
 
-**[A Rock, Paper, Scissor game with a score keeper. [file](v0.4.js)**]
+**[A Rock, Paper, Scissor game with a score keeper. [v0.4.js](v0.4.js)]**
 
 ### v0.5
 
-**[A program with different sprite animations bound to different buttons. [file](v0.5.js)**]
+**[A program with different sprite animations bound to different buttons. [v0.5.js](v0.5.js)]**
 
 ### v0.6
 
-**[Mid term project: A timer. Press A to add 1 second, press B to remove 1 second and press A+B to start the timer. When the timer reaches 0, a special animation will play. [file](v0.6.js)**]
+**[Mid term project: A timer. Press A to add 1 second, press B to remove 1 second and press A+B to start the timer. When the timer reaches 0, a special animation will play. [v0.6.js](v0.6.js)]**
 
 ### v0.7
 
-**[A program that generates random pixels with random brightness settings. Press A to generate more, press B to clear. [file](v0.7.js)**]
+**[A program that generates random pixels with random brightness settings. Press A to generate more, press B to clear. [v0.7.js](v0.7.js)]**
 
 ### v0.8
 
-**[A simple program that flips a coin. Made using the Boolean Function. [file](v0.8.js)**]
+**[A simple program that flips a coin. Made using the Boolean Function. [v0.8.js](v0.8.js)]**
 
 ### v0.9
 
-**[A transmogrifier that translates binary input to its corresponding decimal output. [file](v0.9.js)**]
+**[A transmogrifier that translates binary input to its corresponding decimal output. [v0.9.js](v0.9.js)]**
 
 ### v0.10
 
-**[A program that sends Morse code signals to other Microbits on the same Radio channel. [file](v0.10.js)**]
+**[A program that sends Morse code signals to other Microbits on the same Radio channel. [v0.10.js](v0.10.js)]**
 
 ### v0.11
 
-**[A minigame of Arrays that shows a word from a list. [file](v0.11.js)**]
+**[A minigame of Arrays that shows a word from a list. [v0.11.js](v0.11.js)**]
 
 ### v0.12
 
-**[Final Project: A paintng app that uses certain inputs to navigate and paint. [file](v0.12.js)**]
+**[Final Project: A paintng app that uses certain inputs to navigate and paint. [v0.12.js](v0.12.js)]**
 
 ## Designs
 
@@ -142,51 +142,51 @@ _**Note:** Add your project designs below._
 
 ### v0.1 Design
 
-**[... [file](v0.1.js)**]
+**[...]**
 
 ### v0.2 Design
 
-**[... [file](v0.2.js)**]
+**[...]**
 
 ### v0.3 Design
 
-**[... [file](v0.3.js)**]
+**[...]**
 
 ### v0.4 Design
 
-**[... [file](v0.4.js)**]
+**[...]**
 
 ### v0.5 Design
 
-**[... [file](v0.5.js)**]
+**[...]**
 
 ### v0.6 Design
 
-**[Mid Term Project: ... [file](v0.6.js)**]
+**[...]**
 
 ### v0.7 Design
 
-**[... [file](v0.7.js)**]
+**[...]**
 
 ### v0.8 Design
 
-**[... [file](v0.8.js)**]
+**[...]**
 
 ### v0.9 Design
 
-**[... [file](v0.9.js)**]
+**[...]**
 
 ### v0.10 Design
 
-**[... [file](v0.10.js)**]
+**[...]**
 
 ### v0.11 Design
 
-**[... [file](v0.11.js)**]
+**[...]**
 
 ### v0.12 Design
 
-**[Final Project: ... [file](v0.12.js)**]
+**[Final Project: ... ]**
 
 ### Midterm project
 
