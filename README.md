@@ -102,11 +102,11 @@ _**Note:** Add your program descriptions below._
 
 ### v0.4
 
-**[A Rock, Paper, Scissor game with a score keeper [file](v0.4.js)**]
+**[A Rock, Paper, Scissor game with a score keeper. [file](v0.4.js)**]
 
 ### v0.5
 
-**[A program with different sprite animations bound to different buttons [file](v0.5.js)**]
+**[A program with different sprite animations bound to different buttons. [file](v0.5.js)**]
 
 ### v0.6
 
@@ -122,35 +122,92 @@ _**Note:** Add your program descriptions below._
 
 ### v0.9
 
-**[... [file](v0.9.js)**]
+**[A transmogrifier that translates binary input to its corresponding decimal output. [file](v0.9.js)**]
 
 ### v0.10
 
-**[... [file](v0.10.js)**]
+**[A program that sends Morse code signals to other Microbits on the same Radio channel. [file](v0.10.js)**]
 
 ### v0.11
 
-**... [file](v0.11.js)**]
+**[A minigame of Arrays that shows a word from a list. [file](v0.11.js)**]
+
+### v0.12
+
+**[Final Project: A paintng app that uses certain inputs to navigate and paint. [file](v0.12.js)**]
 
 ## Designs
 
 _**Note:** Add your project designs below._
+
+### v0.1 Design
+
+**[... [file](v0.1.js)**]
+
+### v0.2 Design
+
+**[... [file](v0.2.js)**]
+
+### v0.3 Design
+
+**[... [file](v0.3.js)**]
+
+### v0.4 Design
+
+**[... [file](v0.4.js)**]
+
+### v0.5 Design
+
+**[... [file](v0.5.js)**]
+
+### v0.6 Design
+
+**[Mid Term Project: ... [file](v0.6.js)**]
+
+### v0.7 Design
+
+**[... [file](v0.7.js)**]
+
+### v0.8 Design
+
+**[... [file](v0.8.js)**]
+
+### v0.9 Design
+
+**[... [file](v0.9.js)**]
+
+### v0.10 Design
+
+**[... [file](v0.10.js)**]
+
+### v0.11 Design
+
+**[... [file](v0.11.js)**]
+
+### v0.12 Design
+
+**[Final Project: ... [file](v0.12.js)**]
 
 ### Midterm project
 
 _**Note:** Add your project designs below._
 
 #### Goal
-
-**My goal is to use all the functions i used in the previous sections, and combine them to make a simple, yet practical, new program. So I decided to make a timer.**
+**My goal was to use almost all the functions i used in the previous sections, and combine them to make a simple, yet practical, new program. So I decided to make a timer.**
 
 #### Design process
-
 At first I had to come up with an idea which used all the features from the previous programs, so I decided to make a timer. When I finished making it, I realized I needed to attach speakers to the microbit, so I just made it so a 2 frame animation would play when the timer hits 0. Press A to add 1 second to the timer, Press B to remove 1 second and Press A+B to start the timer.
-#### JS Constructs & objects
 
+#### JS Constructs & objects
 The features I used were: Variable, Button Press, LED plot/unplot, while loop, repeat loop, a for loop, show LED function and some Math functions.
 
 ### Final project
 
-**[etc.]**
+#### Goal
+**My goal was to create something that would keep you busy for a while and something that is more "interactive". So I decided to make a Paint program.**
+
+#### Design process
+...
+
+#### JS Constructs & objects
+...
