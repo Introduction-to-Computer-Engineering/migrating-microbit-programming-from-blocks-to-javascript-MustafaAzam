@@ -134,7 +134,7 @@ _**Note:** Add your program descriptions below._
 
 ### v0.12
 
-**[Final Project: ... [v0.12.js](v0.12.js)]**
+**[Final Project: A compass that shows the bearings, direction and North pointer. [v0.12.js](v0.12.js)]**
 
 ## Designs
 
@@ -142,51 +142,51 @@ _**Note:** Add your project designs below._
 
 ### v0.1 Design
 
-**[...]**
+**[Just a forever loop that keeps repeating a pattern of LEDs counting from 0 to 9 continuously.]**
 
 ### v0.2 Design
 
-**[...]**
+**[2 Faces bound to the buttons. Press A for smiley face, B for sad face.]**
 
 ### v0.3 Design
 
-**[...]**
+**[3 Counters. The program uses variables to store values. Press A to add 1 to the A counter, B to add 1 to the B counter, and A+B to add 1 to the AB counter. Shake to show the current values of each.]**
 
 ### v0.4 Design
 
-**[...]**
+**[A Rock, Paper Scissor game that uses an if-else statement to decide a winner and keep track of each player's wins using variables. The weapons (Rock, paper etc.) are generated on random so the player doesn't get to choose his weapon. Press A to throw player 1's weapon and B to throw player 2's. Shake to show score.]**
 
 ### v0.5 Design
 
-**[...]**
+**[An animation showcase program that sends out an animation of the sprite based on the button pressed. A sends horizontal lines that go over the whole screen and B sends vertical lines. A+B starts a different animation where the sprite makes its way around the screen once per press. Uses plot / unplot functions and repeat loops to make the animations.]**
 
 ### v0.6 Design
 
-**[...]**
+**[A simple timer that counts down in seconds from a set number and plays an exploding animation when reaches 0. Press A to add one to the timer, press B to subtract one. Press A+B to start the timer. The timer uses a for and a while loop to function.]**
 
 ### v0.7 Design
 
-**[...]**
+**[This program uses the Math.randomRange and led.plotBrightness functions to create random patterns of varying brightnesses. Press A to generate a pattern and then keep pressing A to add to the pattern. Press B to clear.]**
 
 ### v0.8 Design
 
-**[...]**
+**[A head-tail coin game that decides a random winner everytime the microbit is shaken. Uses Math.randomBoolean and an if else statement to randomly pick a winner and store it in the counter. Pressing A shows the wins of each player.]**
 
 ### v0.9 Design
 
-**[...]**
+**[A binary to decimal converter that takes in user input and converts it to decimal. Press A to type 1 and B to type 0. A+B will show the decimal value of the binary expression. The program uses basic arithmetic to compute the results]**
 
 ### v0.10 Design
 
-**[...]**
+**[A morse code program that sends messages to other microbits on the same channel. The program uses the Radio class and if else statements to send and receive messages. Press A for dot, B for dash, and A+B for space.]**
 
 ### v0.11 Design
 
-**[...]**
+**[A game where a word is chosen from an array list and other people have to guess the word. This project was a little harder because you have to define an array variable and an index variable and use them accordingly.]**
 
 ### v0.12 Design
 
-**[Final Project: ... ]**
+**[Final Project: A compass that uses if-else statements, led plots and while statements to show the direction.]**
 
 ### Midterm project
 
@@ -204,10 +204,10 @@ The features I used were: Variable, Button Press, LED plot/unplot, while loop, r
 ### Final project
 
 #### Goal
-*...**
+**My goal was to make something practical in real life and something easy to use. So I decided to make a compass.**
 
 #### Design process
-...
+I built wrote everything in the forever function because compasses aren't supposed to have a switch. I used while loops instead of the "onButtonPressed" commands so the user can see the value while holding down the button for a desired time duration, and also because the button press methods were messing up the program. I copied the direction showing method outside the "while B is pressed" loop and changed it up so it constantly showed a needle pointing North, like a real compass. Holding button A just shows the numerical value for the current bearing, button B shows the direction in alphabet form (N, SE, NW etc.) and not pressing any buttons will just show the default needle pointing North.
 
 #### JS Constructs & objects
-...
+Used a basic forever function for every statement, plot / clear screen statements for showing the compass needle, while loops for Button inputs, compassHeading feature for directional input and if-else statements for visual directional output.
