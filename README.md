@@ -134,7 +134,7 @@ _**Note:** Add your program descriptions below._
 
 ### v0.12
 
-**[Final Project: A paintng app that uses certain inputs to navigate and paint. [v0.12.js](v0.12.js)]**
+**[Final Project: ... [v0.12.js](v0.12.js)]**
 
 ## Designs
 
@@ -204,7 +204,7 @@ The features I used were: Variable, Button Press, LED plot/unplot, while loop, r
 ### Final project
 
 #### Goal
-**My goal was to create something that would keep you busy for a while and something that is more "interactive". So I decided to make a Paint program.**
+*...**
 
 #### Design process
 ...
